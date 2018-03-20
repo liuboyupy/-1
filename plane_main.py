@@ -2,11 +2,11 @@ import pygame
 from plane_sprites import *
 
 #导入音乐
-# pygame.init()
+#pygame.init()
 #加载
-# pygame.mixer.music.load('./Jam - 差三岁.mp3')
+#pygame.mixer.music.load('./Jam - 差三岁.mp3')
 #播放
-# pygame.mixer.music.play()
+#pygame.mixer.music.play()
 class PlaneGame(object):
 	'''飞机大战 主游戏类'''
 	#初始化方法
